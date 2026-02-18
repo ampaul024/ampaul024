@@ -12,7 +12,7 @@
 
 ## ☁️ About Me
 
-🎓 IT student passionate about technology  
+🎓 BSIT student from System Technology Institute (STI) 
 ☁️ Currently learning **Cloud & DevOps fundamentals**  
 🐧 Exploring Linux & system administration  
 🐍 Automating tasks using Python  
