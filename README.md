@@ -78,8 +78,6 @@
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/john-paul-de-guzman-355560371/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
