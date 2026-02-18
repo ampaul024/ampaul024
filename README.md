@@ -87,7 +87,7 @@
   <a href="https://leetcode.com/this_is_ampaul" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:ampauljobmail@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:ampauljobmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
