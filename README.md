@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 Cloud Journey Roadmap
+## 🚀 Cloud Journey Roadmap (DevOps Roadmap.png)
 
 🔹 Linux & Networking  
 🔹 AWS Core Services (EC2, S3, IAM, VPC)  
@@ -66,11 +66,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ampaul024&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampaul024&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -83,11 +83,11 @@
 
 ## 📫 Connect With Me
 
-📧 your@email.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+📧 ampauljobmail@email.com  
+🔗 LinkedIn: (https://www.linkedin.com/in/john-paul-de-guzman-355560371/)
 
 ---
 
 <p align="center">
-⭐ From beginner to cloud engineer — follow my journey!
+⭐ My journey from beginner to cloud engineer
 </p>
