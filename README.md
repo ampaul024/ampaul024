@@ -1,16 +1,93 @@
-## Hi there 👋
+<!-- Animated Header -->
+<h1 align="center">Hi 👋 I'm Paul</h1>
+<h3 align="center">☁️ Aspiring Cloud Engineer | Future DevOps Specialist</h3>
 
-<!--
-**ampaul024/ampaul024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Engineer+in+progress;Learning+AWS+%26+DevOps;Linux+%7C+Python+%7C+Git;Always+learning+new+tech&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ About Me
+
+🎓 IT student passionate about technology  
+☁️ Currently learning **Cloud & DevOps fundamentals**  
+🐧 Exploring Linux & system administration  
+🐍 Automating tasks using Python  
+🚀 Goal: Become a **Cloud Engineer / DevOps Engineer**
+
+---
+
+## 🛠 Tech Stack
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-learning-orange?logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-basic-yellow?logo=linux)
+![Git](https://img.shields.io/badge/Git-version_control-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-projects-black?logo=github)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?logo=java)
+![C#](https://img.shields.io/badge/C%23-purple?logo=csharp)
+
+### 🌐 Web Basics
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+
+---
+
+## 📚 Currently Learning
+
+✅ AWS Fundamentals  
+✅ Linux command line & server basics  
+✅ Git & version control workflows  
+✅ Python scripting & automation  
+✅ Networking & cloud architecture basics  
+
+---
+
+## 🚀 Cloud Journey Roadmap
+
+🔹 Linux & Networking  
+🔹 AWS Core Services (EC2, S3, IAM, VPC)  
+🔹 Infrastructure & Deployment  
+🔹 Docker & Containers  
+🔹 CI/CD Pipelines  
+🔹 Kubernetes & Scaling  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Dev Quote
+
+> “The cloud is just someone else's computer — but knowing how it works makes you powerful.”
+
+---
+
+## 📫 Connect With Me
+
+📧 your@email.com  
+🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+
+---
+
+<p align="center">
+⭐ From beginner to cloud engineer — follow my journey!
+</p>
