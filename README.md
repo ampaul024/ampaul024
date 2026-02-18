@@ -64,16 +64,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ampaul024&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ampaul024&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ampaul024&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ampaul024" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampaul024&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
 
 
 ---
