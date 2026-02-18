@@ -1,9 +1,9 @@
 <!-- Animated Header -->
-<h1 align="center">hello mga walang bitaw, I'm Paul</h1>
-<h3 align="center">☁️ Aspiring Cloud Engineer | Future DevOps Specialist</h3>
+<h1 align="center">Hi There! 👋🏻 I'm Paul</h1>
+<h3 align="center">☁️ Aspiring Cloud Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Engineer+in+progress;Learning+AWS+%26+DevOps;Linux+%7C+Python+%7C+Git;Always+learning+new+tech&center=true&width=500&height=45">
+  <img src=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Cloud+Engineer+In+Progress..." alt="Typing SVG" /></a>>
 </p>
 
 ---
