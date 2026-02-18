@@ -3,8 +3,9 @@
 <h3 align="center">☁️ Aspiring Cloud Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Engineer+in+Progress&center=true&width=500&height=45&color=FF0000&size=28">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Cloud+Engineer+in+Progress" />
 </p>
+
 
 
 ---
