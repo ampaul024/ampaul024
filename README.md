@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<h1 align="center">Hi 👋 I'm Paul</h1>
+<h1 align="center">hello mga walang bitaw, I'm Paul</h1>
 <h3 align="center">☁️ Aspiring Cloud Engineer | Future DevOps Specialist</h3>
 
 <p align="center">
