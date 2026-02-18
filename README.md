@@ -3,8 +3,9 @@
 <h3 align="center">☁️ Aspiring Cloud Engineer</h3>
 
 <p align="center">
-  <img src="href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Cloud+Engineer+In+Progress..." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Engineer+in+Progress&center=true&width=500&height=45&color=FF0000&size=28">
 </p>
+
 
 ---
 
