@@ -64,13 +64,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ampaul024&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=ampaul024&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ampaul024" />
-</p>
-
 
 
 ---
